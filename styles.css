@@ -1,0 +1,165 @@
+body
+{
+    text-align:left;
+}
+
+#navbar nav a
+{
+    margin-right: 12%;
+    margin-bottom: auto;
+}
+
+#home
+{
+    background-color : black;
+    color: #1a0000;
+}
+
+#planet1
+{
+    background : linear-gradient(to left, #13dae8, #2a696e);
+    color : white;
+}
+
+#planet2
+{
+    background-color : red;
+    color : white;
+}
+
+#planet3
+{
+    background-color: #5e1c12;
+    color: #bfaa86;
+}
+
+#main
+{
+    margin-top: 5px;
+    text-align: center;
+}
+
+#bottomMargin
+{
+    margin: 50px;
+}
+
+.teleportation
+{
+    font-size: 120%;
+    font-weight: 600;
+    color: #00802b;
+    text-shadow: 1px 1px #00ff55;
+}
+
+.planetTitle
+{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.location
+{
+    margin: 10px;
+}
+
+.artifact
+{
+    position: relative;
+    font-size: 130%;
+    font-variant: small-caps;
+    text-shadow: 1.5px 1.5px #800060;
+
+    /*Fond en dégradé*/
+    background-image: linear-gradient(to left, #800060, black);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;
+}
+
+.emphasis
+{
+    font-size: 140%;
+    font-weight: bolder;
+}
+
+.smallComment
+{
+    font-style: oblique;
+    font-size: 80%;
+}
+
+.explosion
+{
+    font-size: 160%;
+    font-weight: bolder;
+    text-shadow: 1.5px 2.5px #e6870b;
+}
+
+.robot
+{
+    font-size: 90%;
+    font-weight: 300;
+    color: #005682;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.lizardTalk
+{
+    font-size: 115%;
+    font-weight: 500;
+    color: #990f02;
+}
+
+.multicolor
+{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    color: transparent;
+}
+
+#ModalLabel
+{
+    color: black;
+}
+
+#locationText
+{
+    color: black;
+}
+
+/*From : https://codepen.io/nohoid/pen/kIfto ; add a the wrapper class that makes rainbow background*/
+.wrapper {
+    min-height: 100vh;
+    height: 100%;
+    margin: 0;
+background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+background-size: 1800% 1800%;
+
+-webkit-animation: rainbow 18s ease infinite;
+-z-animation: rainbow 18s ease infinite;
+-o-animation: rainbow 18s ease infinite;
+  animation: rainbow 18s ease infinite;}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}

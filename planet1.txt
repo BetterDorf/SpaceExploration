@@ -1,0 +1,52 @@
+Ville de lézard
+<p>Après peu d'exploration sur l'unique continent de la planète, tu tombes sur une petite ville flottante au milieu d'un lac. Oui, une ville flottante, sur une planète d'eau, sur le seul continent, sur le seul lac dudit continent...</p><p>Un des habitants se tient sur un ponton te faisant face, ce sont de tout petits lézards, à l'instar de leurs maisons que tu pourrais facilement soulever, si tu avais passé plus de temps à la gym avant de venir. Ce spécimen-ci est rouge.</p><p>En te voyant, il bondit sur place, visiblement excité par sa découvert, il saute tant sur place que</p><p class="emphasis">Crack</p> le pont cède sous pattes et il chute à l'eau avec les restes mal construits du ponton. Ne voulant pas laisser ce premier contact <span class="smallComment">(tomber à l'eau) </span>se solder par une tragédie, tu t'empresses d'activer ton téléporteur de poche, qui, par chance, est également étanche.</p><p class="teleportation">Fwip</p><p>Il est vite apparent que le lézard n'est pas en train de se noyer et se contente d'observer les poissons avec appétit. Il semble t'avoir déjà oublié.</p>
+00:00
+L'eau du lac est calme, un temps parfait pour dormir.
+4:30
+<p>En te promenant dans la ville calme, tu prends un moment pour apprécier l'architecture de l'endroit.</p><p>Les maisons sont faites d'une combinaison de troncs de bois et de paille pour le toit. Le sol est fait, comme les murs, de bois non travaillé, mais dans certaines maisons, le sol est... manquant?<br>Les rues sont des pontons joignant ensembles les différentes plateformes de bois servant de places publiques.</p><p>Il est difficile de penser que ce sont eux qui ont construit tout ça, mais c'est là la seule explication raisonnable.</p>
+8:00
+<p>La rue commence à grincer sous tes pas et avant que tu n'aies le temps de réagir,</p><p class="emphasis">Crack</p><p>Te voici sous l'eau. Tu t'apprêtes à te téléporter sur la berge mais une petite main t'attrape avant et te remonte sur le pont.</p><p>Il s'agit d'un petit lézard gris</p><p>Avant de pouvoir le remercier, il t'assaille d'une avalanche de:</p><p class="lizardTalk">Blip blap plup ouop lopopo plap! Plouc ploc boop</p><p class="robot">Traduction: Ne vous inquiétez pas, ça m'arrive tout le temps de tomber en allant au marché. Vous alliez au marché vous aussi ? Je suis très excité d'aller au marché, des vaisseaux de Mogott font le voyage, ils ne sont pas encore partis mais j'ai quand même hâte de les attendre. Mon grand-père fait partie de leurs caravane, même qu'il a le vaisseau le plus lent, il s'en vante souvent, moi je pense qu'il fait exprès de ralentir pour pouvoir s'en vanter après...</p><p>La petite créature continue ainsi pendant un moment avant de partir, présumablement en direction du marché, tout en continuant son monologue.</p>
+12:00
+<p>Des navettes marchandes venant de Mogott viennent d'arriver. À peine sont-ils descendus de leurs navettes que les échanges font rage.</p><p class="lizardTalk">Bloa bili pouplu?<br>Pili osopo bilili.<br>Plo!</p><p>Ils s'échangent principalement des pierres et des étoffes, bien que tu n'aies jamais vu un seul de ces lézards porter le moindre vêtement. Ayant envie de participer à cet évènement mais, n'ayant aucune monnaie, tu te contentes de faire la conversation avec un des marchands.</p><p class="lizardTalk">Bluh blip blip.</p><p>Tu apprends que l'un d'entre eux, un petit lézard gris, n'est pas encore arrivé et à en comprendre le sarcasme du lézard, ne risque pas d'arriver avant le soir. Ensuite, il te propose de lui acheter une pierre brillante,<br>tu lui réponds qu'il y en a des millions ainsi sur Chromia,<br>il répond que celle-ci est unique,<br>tu demandes "en quoi?",<br>il répond que celle-ci n'est <span class="emphasis">plus</span> sur Chromia.<br>Il marque un point.</p><p>Tu t'abstiens de faire remarquer qu'il a littéralement cinquante pierres identiques posées sur son comptoir et décline poliment l'offre.</p>
+16:00
+<p>La dernière navette d'un convoi marchand vient d'arriver. En sort un petit lézard gris transportant une </span class="artifact">pyramide métallique aux inscriptions étranges</span></p><p>Tu demandes poliment au lézard si tu peux inspecter la pierre et celui-ci accepte.</p><p class="robot">Traduction: 5% - Echec de la traduction</p><p>Tu décides de quand même jeter un coup d'oeil au 5% traduits.</p><p class="robot">Traduction:i dóthio ȝoosgeged lorïatans tlsed eev ðiaxe oye epülêlo i þnoirf keusonaret Heure ininhe dre<span class="emphasis">20</span> itaduarei hutaðao i phede umtaþeo chuðthê ldaiþiig iswhenra tihdidao.</p><p>Difficile à dire à quoi cela pourrait servir, mais n'ayant pas d'autres idées, tu remercies le lézard. Celui-ci remballes déjà ses affaires pour retourner sur Mogott, ses compagnons font de même. Il avait tellement de retard qu'il est arrivé pile au moment du départ.</p>
+16:15
+<p>Des marchands venant en navette de Mogott viennent de partir. Le lézards de la ville flottante sont en train de compter leurs <span class="multicolor">pierres brillantes</span>.</p>
+20:00
+<p>Le son ne voyage pas dans l'espace, mais la lumière si.</p><p>Ainsi, lorsque le gargantuesque volcan de Mogott explose enfin, la masse colossale de magma se libérant de l'attraction gravitationnelle de sa planète émet une lumière intense, comparable à un second soleil.</p><p>Les lézards applaudissent le spéctacle, comme s'ils venaient de voir le plus magistral des feux d'artifices</p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
+END
+Forêt
+<p>Te voici dans la seule forêt du seul continent de Bivalis.</p><p>Mais, visiblement, tu n'es pas le premier arrivé sur les lieux. Des petits saurides bipèdent sont en train de couper du bois avec des haches proportionnées à leur petite taille.</p><p>Plus loin, dans le bois, se trouve un piédestal fait de <span class="multicolor">pierres scintillantes</span>. À en croire la poussière, quelque chose de <span class="artifact">triangulaire</span> se trouvait là.</p>
+00:00
+Les bûcherons dorment, ils coupents sans doute des bûches dans leur sommeil.
+4:30
+<p>Ne te sentant pas trop l'envie de pousser l'exploration trop loin pour l'instant, tu te contentes te taper la causette avec le premier lézard que tu croises dans les bois.</p><p class="lizardTalk">Lopo popolo mub...</p><p class="robot">Traduction: Tout le bois qu'on coupe ici il va pour construire notre base sur la planète brillante, on en ramène plein de cailloux brillants. Avant le bois il allait pour la ville, mais maintenant on le met dans les vaisseaux.</p><p>Tu t'enquiers de cette base sur Chromia, enfin, la planète brillante tu veux dire.</p><p class="lizardTalk">Lopa Bilili Vonomo</p><p class="robot">Traduction: La base sert à ramener plein de choses, surtout des cailloux. Mais une fois on a ramené deux gros trucs gris-violets. On en a mit une sur la planète de feu et une autre dans la forêt pour nous porter chance. Mais elle est tombée à l'eau donc elle ne portait pas chance.</p>
+12:00
+<p>Il ne se passe pas grand-chose dans cette forêt penses-tu.</p><p>Ah non, autant pour toi, un bûcheron vient de se lécher l'oeil</p><p>C'était un moment très intense.</p>
+15:00
+<p class="emphasis">Plouf</p><p>L'un des bûcherons a fait tomber sa hache dans le lac</p><p class="lizardTalk">ploup ploub lup<br>Lopa! Bup pop pop</p><p class="robot">Traduction: Plus qu'à aller la chercher au fond.<br>Mais non! Tu as oublié que ce qui tombe dans le lac arrive ailleurs.<br>Comment ça se fait?<br>Il y a un tunnel sous le lac, ça finit dans un des ouragans, soit celui du pôle sud, soit celui du nord.</p><p>Intéressant.</p>
+19:00
+<p>Les bûcherons font le compte du bois qu'ils ont abbatu aujourd'hui.</p><p class="emphasis">507</p><p>C'est très impressionant, même si toi, tu n'en comptes que 12.</p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
+END
+Ouragan Sud
+<p>Voici l'ouragan du pôle sud, il fait bouger l'eau par de violents courants. Des centaines de tonnes d'eau sont projetées à toutes vitesse et dans tous les sens.</p><p>Mieux vaut ne pas trop s'en approcher.</p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
+END
+Ouragan Nord
+<p>Voici l'ouragan du pôle nord, il fait bouger l'eau par de violents courants. Des centaines de tonnes d'eau sont projetées à toutes vitesse et dans tous les sens.</p><p>Mieux vaut ne pas trop s'en approcher.</p>
+00:00
+<p>L'ouragan est enfin calme!</p><p>Le butin est tient!</p><p>Ah non, ce n'était qu'une hallucination</p><p>Tu ferais bien de dormir.</p>
+4:30
+<p>Plein d'objets valdinguent dans tous les sens dans les flots impétueux de l'ouragan.</p><p>Sans savoir quoi et quand chercher, impossible de mettre la main sur une seule babiole de ce formidable butin des mers.</p>
+12:30
+<p>L'ouragan est étrangement calme, juste assez pour discerner ce qu'il s'y cache.</p><p>Il y a de tout: des bocaux, des poissons, des maisons, des lances, des navettes, une <span class="artifact">pyramide métallique</span>, des lunettes, un sac à dos, des arbres.</p><p>Tu as à peine le temps de scanner les symboles se mouvant sur l'étrange pyramide de métal que déjà, l'ouragan se réveille et emporte au loin tout son butin. La traduction est incomplète, mais tu la lis quand même.</p><p class="robot">Traduction: otwiṭðfit wiþhundeh þnop nehe oeddnes sedlæawi looMinutes tiop<span class="emphasis">20</span>ys gah eorionia ealoodci neghina uþmœlngi ltiðat rdaodse ayvne no iðneȝi rtðio ogabþme tonf.</p><p>Du progrès! Wouhou!</p>
+12:31
+<p>Plein d'objets valdinguent dans tous les sens dans les flots impétueux de l'ouragan.</p><p>Sans savoir quoi et quand chercher, impossible de mettre la main sur une seule babiole de ce formidable butin des mers.</p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
+END

@@ -1,0 +1,65 @@
+Champ de cratères
+<p>Jusqu'à l'horizon, ce qui n'est pas si loin vu la taille de Chromia, il y a des cratères partout.<br>Il y en a de toutes tailles et de toutes formes. De cratères chevauchant d'autres à des cratères dans des cratères eux-mêmes dans d'autres cratères. Il y a de tout. Du moment que l'on ne s'interesse qu'aux cratères.</p><p>Non, il y autres choses, certains cratères brillent, au fond, ils sont remplis de pierre précieuses et de poussière brillante. C'est sans doute de là que vient la brillance de cet astre.</p>
+00:00
+<p>...</p><p>Pas un bruit, rien qui ne bouge. Rien ne se passe au champ de cratères.</p><p><span class="smallComment">Pour l'instant</span></p>
+9:00
+<p>Des lézards-cosmonautes sont en train de ramasser de jolies <span class="multicolor">pierres</span> et sont trop occupés pour te prêter attention.</p>
+10:00
+<p>La tranquilité de l'endroit fait du bien pour tes nerfs. Rien ne saurait ruiner ça. Pas même les projections de Mogott venant droit sur le champ de cratères.</p><p class="explosion">Booom</p><p class="smallComment">Un endroit parfait pour méditer.</p>
+12:12
+<p>Caché sous une pierre se trouve... un <span class="emphasis">Oeuf</span></p><p><span class="smallComment">Eh ben, ça c'est de l'<i>easter egg</i></span></p>
+12:13
+<p>Une gerbe de lave expulsée par le volcan de Mogott est sur le point de percuter Chromia. Elle n'est pas très grande et a suffisament refroidi durant son voyage pour être solide.</p><p><span class="explosion">Boum</span></p><p>Chose rare, un cratère vient de se former sous tes yeux.<br> À vrai dire, compte tenu du nombre de cratères et de lances de pierres dérivant en ta direction, ce n'est sans doute pas si rare que ça.</p><p>Ce projectile-ci semble avoir abrité quelques pierres précieuses qui ont survécues à l'impact et adornent maintenant le fond du nouveau cratère, lui donnant des lueurs <span style="color:red">rouges</span> et <span style="color:blue">bleues</span></p>
+20:00
+<p>Une lumière intense vient de Mogott et se rapproche à une vitesse alarmante. <span class="multicolor">Les pierres et la poussière des cratères scintillent comme une colonie de soleils</span>. Jamais auparavant n'as-tu eu autant l'impression de te tenir sur la plus grande boule disco de l'univers. Mais pour ta sécurité, il vaut mieux partir d'ici <span class="emphasis">et vite</span></p><p class="teleportation">Fwip</p><p>Juste à temps pour voir tout Chromia se faire recouvrir de lave. En quelques instants, il n'est plus possible de voir le sol de la planète, elle est entièrement couverte d'un épais magma.</p>
+20:30
+<p class="robot">Téléportation impossible.</p>
+21:00
+<p>Chromia est couverte de lave et des grands bruits de craquement se font entendre.</p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
+END
+Camp de lézards
+<p>Les petits lézards habitant sur les planètes locales ont établit une base semi-permanente sur Chromia. Le résultat, sans doutes, de nombreuses années de programme spatial.</p><p>Plusieurs huttes en bois on été construites et semble faire très peu pour garder l'oxygène à l'intérieur. Non pas que ce soit nécessaire puisque le "scaphandre" des lézards locaux consiste en un bocal sur leur têtes. C'est tout.</p><p>Les raisons pour lesquelles il auraient essayé de se faire des combinaisons alors qu'ils n'en ont aucun besoin sont au-delà de ta compréhension.</p><p>En tout cas, ils ont l'air amicaux.</p>
+00:00
+Tous les lézards cosmonautes sont en train de dormir,<br> certains sur leur tête.
+7:07
+<p class="emphasis">Lama.</p><p>Celui-ci porte un bocal.</p><p class="smallComment">(et il s'est asphyxié)</p>
+7:08
+<p>Les petits lézards sont en train de monter une expédition, ils seront prêt dans peu de temps disent-ils. Enfin c'est ce que le traducteur affirme puisque tout ce qui est sorti de la bouche du lézard est:</p><p class="lizardTalk">Blob plip Bleup</p><p>Mais le traducteur se révèle être très pratique, cette fois-ci.</p>
+9:00
+<p>Les cosmo-lézards ont fini de préparer une expédition pour le champ de cratères.</p><p class="lizardTalk">Plu Plu?</p><p class="robot">Traduction: Voulez-vous ramasser des pierres avec nous?</p><p>C'est une invitation qui ne se refuse pas. Le voyage n'est pas très long, la destination étant à, à peine, une centaine de mètres du point de départ</p><p>Une fois arrivés, tes nouveaux compagnons commencent à prendre des <span class="multicolor">pierres</span> de toutes les couleurs et les jettent dans les paniers qu'ils portaient à l'aller. Tu te dépêches de les imiter.</p><p>Quelques temps plus tard...</p><p>Au fond d'un très large cratère, tu trouves une <span class="multicolor">belle pierre de bonne taille</span>. Après de longs instants gênants pendant lesquels tu pousses de toutes te forces sans parvenir à faire bouger le rocher d'un millimètre, ton sauveur vient sous la forme d'un reptile bipède qui, sans le moindre signe d'effort, soulève le rocher, le pose sur son dos, et gravit le cratère.</p><p>...</p><p>Ces lézards peuvent être terrifiants parfois.</p><p>Sous la pierre se trouve une surface de métal, elle est lisse et trahit une forme sphérique. Est-ce que quelque chose se trouve au centre de la petite planète ?</p>
+10:00
+<p>Les petits cosmonautes multicolors comptent le butin qu'ils ont accumulé.</p><p>Ils sont très enthusiastes et expliquent que c'est le deuxième plus gros butin de <span class="multicolor">pierres multicolores</span> qu'ils n'aient jamais eu. Intrigué, tu t'enquiers de leur plus gros butin.</p><p class="lizardTalk">Boup lap Poli pilipop</p><p class="robot">Traduction: Notre plus gros butin était une grande montagne de pierres. En plus on en avait trouvé deux bizarres en forme de triangles, on les a données à la ville volcan et à la ville sur le lac.</p>
+15:00
+<p>Les lézards ne sont pas à leur base.</p><p class="teleportation">Fwip<br>Fwip<br>Fwip</p><p>Après quelques téléportations hasardeuses, tu les retrouves dans leurs navettes, entre Chromia et Mogott. Ils ramenent leurs trouvaillent à la ville. Tu décides de faire un bout du voyage avec eux.</p><p class="lizardTalk">Blup plop plip</p><p class="robot">Traduction: moi j'aime bien faire les voyages entre les planètes. Être sur les planètes c'est effrayant. La planète-lave elle tremble tout le temps. La planète-brillante, pour être honnête, elle me fait peur. Il y a une cavere bizarre dedans. C'est là qu'on a trouvé les pyramides grises et il y avait des griffures dessus qui bougeait tout le temps. Un mur de la caverne faisait ça aussi. Je ne suis pas mécontent qu'on les aie refourguées à d'autres.</p>
+18:00
+<p>Il n'y a personne au camp. Ah non, un lézard seul divague dans l'une des huttes. Sans vouloir le déranger, tu allumes le traducteur à l'extérieur pour en savoir plus sur ce qu'il raconte.</p><p class="robot">Traduction: C'est très important de stoker la nourriture. Il faut la cacher aussi. Sinon elle se fait mangée. Quoi de mieux pour cacher la nourriturre que de la jeter dans l'espace ? Mais après on ne sait plus où elle est. Et alors ? Et alors, si j'ai faim après ? Je marque un point là. Merci.<br>Et si je la jetais dans l'eau ? Elle est perdue aussi là. Non on peut la reprendre, elle finit dans l'ouragan. C'est pratique, comme ça je me fais arracher la main quand je reprends mon lézard grillé. Mais non. Ah si. Mais non. Ah si. Non, souviens-toi. De quoi ? À midi vingt précisément, l'ouragan se calme. Ah bon ? Ben oui. Tu es sûr? Non je suis toi. Ah ben c'est logique.</p><p>Tu décides, dans un élan de sagesse, de laisser le vieux lézard seul et de partir avant qu'il ne te voie.</p><p class="teleportation">fwip-</p>
+20:00
+<p>Voyant que le volcan de Mogott rentre en éruption, tu te dépêches de retrouver les cosmonautes pour les faire évacuer. Fort heureusement, ils sont déjà tous partis et c'est depuis l'orbite que tu regardes la petite base spatiale disparaître sous un torrent de lave</p>
+20:30
+<p class="robot">Téléportation impossible.</p>
+21:00
+<p>Chromia est couverte de lave et des grands bruits de craquement se font entendre.</p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
+END
+Grande porte
+<p>Au fond d'une caverne aux allures banales, tu trouves une large porte d'un alliage que tu n'avais jamais vu auparavant.</p><p>Sur la porte, une myriade de <span class="artifact">symboles</span> attirent ton attention. Le traducteur lèvera sous peu le mystère.</p><p class="robot">Traduction impossible</p><p>Ou peut-être pas</p><p>Sans mécanismes d'ouvertures apparent, tu es coincé du côté bien moins intéressant de la porte.</p>
+00:00
+La porte n'est pas plus ouverte lorsque tu es fatigué.
+5:00
+<p>Les larges battants métalliques de la porte sont toujours fermés et semblent ne pas vouloir bouger.</p><p>Les <span class="artifact">symboles</span> sont très differents de la première fois que tu les as vu.</p>
+12:20
+<p>Les <span class="artifact">symboles</span> forment maintenant un triangle.</p><p class="emphasis">...</p><p>Difficile de savoir qu'est-ce que cela signifie. Bien sûr, le traducteur n'est ici d'aucune aide</p>
+20:00
+<p>Après l'explosion du volcan de Mogott, Chromia est couverte de lave. Juste avant que la caverne ne soit elle aussi remplie, tu parviens à t'y engouffrer.</p><p class="emphasis">Mais la porte est toujours fermée.</p><p>Tu es bloqué entre la lave fonçant sur toi et une porte qui refuse de s'ouvrir. Ses <span class="artifact">symboles</span> ont presque tous disparus.</p><p>Pas le temps d'attendre, la sécurité automatique de ton téléporteur s'est activée.</p><p class="teleportation>FWIP-</p>
+20:20
+<p>La lave s'accumule autour de toi. Est-ce que tu es sûr de ton coup?</p><p class="emphasis">OUI</p><p>Dans ton dos, les <span class="artifact">symboles de la porte commencent à virevolter</span></p><p>Ton télporteur commence à se charger</p><p class="robot">DANGER: téléportation d'urgence imminente.</p><p class="smallComment">Pas maintenant, foutu boîte de conserve.</p><p>Tu jettes ton téléporteur loin de toi pour éviter que la machine te soustraie à ta découverte</p><p class="teleportation">FWIIIP<p><p>Le voici partit sans toi. Plus de demi-tour possible. La lave arrive maintenant au bottes de ta combinaison, ces-dernières sifflent sous la chaleur et commencent à s'évaporer.</p><p class="artifact">Clang</p><p class="emphasis">Les portes s'ouvrent!</p><p>Elles révèlent une grande salle, faiblement éclairée par une lumière violacée. Salle dans laquelle tu te jettes sans plus réfléchir alors que la lave parvient finalement à percer le cuir spatial de tes bottes.</p><p class="emphasis">Arrrgh</p><p>Ton pied préféré est maintenant de cendre. Mais ce n'est pas grave, tu touches au but, tu rampes vers le centre de la pièce. Là, tu y discernes une sorte de tube dans lequel réside un <span class="artifact">cube</span> en apesanteur. Tout autour de la pièce se trouvent de nombreux câbles et panneaux de contrôles.</p><p>le <span class="artifact">cube</span> tourne sur lui-même stupidement vite. Tu parviens à peine à reconnaître des <span class="artifact">symboles familiers</span> couvrant toutes ses faces.</p><p class="artifact">Clong</p><p>La porte vient de se refermer. Enfermé ici, au moins la lave n'est plus un problème. Espérons que cette technologie en vaille la peine.</p><p>Ayant pas mal de temps sur les mains, tu laisses ton ordinateur tenter de déchiffrer l'utilité de cette installation</p><p class="robot">Analyse terminée.</p><p>Tu es le premier surpris que cette boîte de conserve se révèle finalement essentielle à ta mission. Tu t'empresses de lire le LOG.</p><p>...</p><p>Il s'agit d'une machine à remonter le temps !!!</p><p>Tu comprends enfin ce qu'il se passe ici! À Chaque fois que Chromia se fait détruire par le volcan de Mogott, le méchanisme de sécurité de la machine s'active et fait revenir le système solaire d'un jour en arrière. C'est pour ça que tu sais tant de choses en avance! Même si ce n'était pas toujours clair.</p><p>Plus qu'à compléter ta mission et devenir un héros!</p><p class="emphasis">...</p><p class="robot">Rapport envoyé! - Rapport de mission: Transmissions envoyées: 6942; Transmission reçues 17</p><p class="emphasis">...</p><p>Tu as... tu as déjà effectué le rapport de mission 6941 fois...<br>Tu te maudis de n'avoir jamais regardé le dossier de rapport de mission, comme tu l'as sans doute déjà fait 6941 fois.<p><p>Sans téléporteur, sans maîtrise de la technologie, il ne reste plus qu'à attendre l'inévitable. D'ailleurs, tu entends l'armature métallique de la pièce grincer sous le poids de la lave...</p><p class="emphasis">FIN.</p>
+20:21
+<p class="robot">Téléportation impossible.</p>
+21:00
+<p>Chromia est couverte de lave et des grands bruits de craquement se font entendre.</p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
+END
