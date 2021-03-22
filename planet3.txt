@@ -20,6 +20,8 @@ Ville de pierre
 <p class="robot">volcan en éruption - téléportation déconseillée.</p><p>Le téléporteur refuse de fonctionner</p>
 20:30
 <p>Tu retrouves les mogottiens projettés dans l'espace. Leur ville est un peu éparpillée et le grand tas de trucs est maintenant un nuage de choses, ces détails à part, les lézards s'accomodent parfaitement à leur nouvelle condition sans oxygène ni pesanteur <spanc class="smallComment">c'est logique.</span></p>
+22:00
+<p>Tout est blanc</p><p>Tu ne vois rien</p><p class="emphasis">Tu as l'impression que le temps n'existe pas...</p>
 END
 Grand Volcan
 <p>Ce volcan était visible depuis les autres planètes, à ses pieds, tu es un grain de poussière. Impossible de voir son sommet sans l'escalader. <span class="smallComment">Sauf pour quelqu'un avec un téléporteur dernier cri.</span></p><p class="teleportation">-Fwip</p><p>Au sommet, tu as l'expérience étrange de voir la planète sur laquelle tu tiens, depuis l'extérieur de son atmosphère.</p><p>À l'intérieur, le magma ou la lave, tu n'a jamais vraiment su distinguer les deux et tu ne vas pas apprendre maintenant. Le liquide rouge éclate en de larges bulles et gerbes, certaines parviennent même à monter jusqu'à toi avant de continuer leur course hors du champ gravitationnel de Magott. Ce bout là est en trajectoire directe pour une rencontre avec Chromia</p>
