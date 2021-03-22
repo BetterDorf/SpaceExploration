@@ -43,7 +43,7 @@ Ouragan Nord
 <p>L'ouragan est enfin calme!</p><p>Le butin est tient!</p><p>Ah non, ce n'était qu'une hallucination</p><p>Tu ferais bien de dormir.</p>
 4:30
 <p>Plein d'objets valdinguent dans tous les sens dans les flots impétueux de l'ouragan.</p><p>Sans savoir quoi et quand chercher, impossible de mettre la main sur une seule babiole de ce formidable butin des mers.</p>
-12:30
+12:20
 <p>L'ouragan est étrangement calme, juste assez pour discerner ce qu'il s'y cache.</p><p>Il y a de tout: des bocaux, des poissons, des maisons, des lances, des navettes, une <span class="artifact">pyramide métallique</span>, des lunettes, un sac à dos, des arbres.</p><p>Tu as à peine le temps de scanner les symboles se mouvant sur l'étrange pyramide de métal que déjà, l'ouragan se réveille et emporte au loin tout son butin. La traduction est incomplète, mais tu la lis quand même.</p><p class="robot">Traduction: otwiṭðfit wiþhundeh þnop nehe oeddnes sedlæawi looMinutes tiop<span class="emphasis">20</span>ys gah eorionia ealoodci neghina uþmœlngi ltiðat rdaodse ayvne no iðneȝi rtðio ogabþme tonf.</p><p>Du progrès! Wouhou!</p>
 12:31
 <p>Plein d'objets valdinguent dans tous les sens dans les flots impétueux de l'ouragan.</p><p>Sans savoir quoi et quand chercher, impossible de mettre la main sur une seule babiole de ce formidable butin des mers.</p>
